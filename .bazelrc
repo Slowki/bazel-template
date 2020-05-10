@@ -1,0 +1,5 @@
+build --all_incompatible_changes
+
+build --fission=yes
+
+build:release --features=thin_lto --compilation_mode=opt

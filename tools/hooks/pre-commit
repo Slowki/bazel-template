@@ -1,0 +1,3 @@
+#!/bin/bash -ex
+
+exec "${BAZEL_REAL:-bazel}" run //tools:format

@@ -1,0 +1,10 @@
+---
+BasedOnStyle: Google
+IndentWidth: 4
+ColumnLimit: 120
+Cpp11BracedListStyle: true
+AccessModifierOffset: -4
+SortUsingDeclarations: true
+
+SortIncludes: true
+IncludeBlocks: Preserve
